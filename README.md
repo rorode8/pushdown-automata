@@ -1,3 +1,3 @@
 # pushdown-automata
 
-![](https://i.imgur.com/Wvwp6xU.jpg "diagrama")
+![](https://i.imgur.com/E23O2Cb.png "diagrama")
