@@ -1,0 +1,9 @@
+
+variables diferentes: 
+['x', 'y', 'z', 'a']
+ocurrencias de operadores: 
+<:	1
+>:	1
+==:	1
+
+whiles encontrados: 3
