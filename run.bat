@@ -1,2 +1,2 @@
-python pushdown_automata.py
+python proyecto2.py
 pause
