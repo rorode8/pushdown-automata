@@ -14,4 +14,6 @@ después de procesar
 
 cuando termina de procesar, el programa nos pregunta si queremos leer otro programa o salir
 
+## automata usado para la solución
+PDA utilizado (no determinista)
 ![](https://i.imgur.com/Nuj9Szy.png "diagrama")
